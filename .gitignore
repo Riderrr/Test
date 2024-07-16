@@ -6,7 +6,6 @@
 *.exe
 *.o
 *.so
-dist/
 
 # Packages #
 ############
@@ -45,7 +44,6 @@ node_modules/*
 build
 build/*
 bak
-dist
 tmp
 *.lock
 /package-lock.json
