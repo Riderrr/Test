@@ -1,0 +1,1407 @@
+{
+  "frames": {
+    "atlas/cards/BackColor_Black.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/BackColor_Blue.png": {
+      "frame": {
+        "x": 2,
+        "y": 403,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/BackColor_Red.png": {
+      "frame": {
+        "x": 2,
+        "y": 804,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Club01.png": {
+      "frame": {
+        "x": 2,
+        "y": 1205,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Club02.png": {
+      "frame": {
+        "x": 2,
+        "y": 1606,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Club03.png": {
+      "frame": {
+        "x": 262,
+        "y": 2,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Club04.png": {
+      "frame": {
+        "x": 663,
+        "y": 2,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Club05.png": {
+      "frame": {
+        "x": 1064,
+        "y": 2,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Club06.png": {
+      "frame": {
+        "x": 1465,
+        "y": 2,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/back_btn.png": {
+      "frame": {
+        "x": 1866,
+        "y": 2,
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/emoji/OwO.png": {
+      "frame": {
+        "x": 1866,
+        "y": 134,
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Club07.png": {
+      "frame": {
+        "x": 262,
+        "y": 262,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Club08.png": {
+      "frame": {
+        "x": 663,
+        "y": 262,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Club09.png": {
+      "frame": {
+        "x": 1064,
+        "y": 262,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Club10.png": {
+      "frame": {
+        "x": 1465,
+        "y": 262,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/emoji/OwOEyebrow.png": {
+      "frame": {
+        "x": 1866,
+        "y": 266,
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/emoji/UwU.png": {
+      "frame": {
+        "x": 1866,
+        "y": 398,
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Club11.png": {
+      "frame": {
+        "x": 262,
+        "y": 530,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Club12.png": {
+      "frame": {
+        "x": 262,
+        "y": 931,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Club13.png": {
+      "frame": {
+        "x": 262,
+        "y": 1332,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Diamond01.png": {
+      "frame": {
+        "x": 262,
+        "y": 1733,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Diamond02.png": {
+      "frame": {
+        "x": 663,
+        "y": 1733,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Diamond03.png": {
+      "frame": {
+        "x": 1064,
+        "y": 522,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Diamond04.png": {
+      "frame": {
+        "x": 1465,
+        "y": 522,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/emoji/XD.png": {
+      "frame": {
+        "x": 1866,
+        "y": 530,
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/emoji/angry.png": {
+      "frame": {
+        "x": 1866,
+        "y": 662,
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Diamond05.png": {
+      "frame": {
+        "x": 522,
+        "y": 522,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/emoji/angryscream.png": {
+      "frame": {
+        "x": 923,
+        "y": 522,
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/emoji/bigsmile.png": {
+      "frame": {
+        "x": 923,
+        "y": 654,
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Diamond06.png": {
+      "frame": {
+        "x": 522,
+        "y": 782,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Diamond07.png": {
+      "frame": {
+        "x": 522,
+        "y": 1042,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Diamond08.png": {
+      "frame": {
+        "x": 522,
+        "y": 1443,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Diamond09.png": {
+      "frame": {
+        "x": 782,
+        "y": 1042,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Diamond10.png": {
+      "frame": {
+        "x": 923,
+        "y": 1443,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/btn_green.png": {
+      "frame": {
+        "x": 923,
+        "y": 794,
+        "w": 196,
+        "h": 91
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 91
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Diamond11.png": {
+      "frame": {
+        "x": 1064,
+        "y": 1703,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Diamond12.png": {
+      "frame": {
+        "x": 1465,
+        "y": 782,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Diamond13.png": {
+      "frame": {
+        "x": 1042,
+        "y": 1042,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Heart01.png": {
+      "frame": {
+        "x": 1055,
+        "y": 782,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Heart02.png": {
+      "frame": {
+        "x": 1302,
+        "y": 1042,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Heart03.png": {
+      "frame": {
+        "x": 1324,
+        "y": 1443,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Heart04.png": {
+      "frame": {
+        "x": 1562,
+        "y": 1042,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/fireParticles/fire9.png": {
+      "frame": {
+        "x": 1064,
+        "y": 1963,
+        "w": 81,
+        "h": 109
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 5,
+        "w": 81,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/fireParticles/fire8.png": {
+      "frame": {
+        "x": 1177,
+        "y": 1963,
+        "w": 79,
+        "h": 99
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 15,
+        "w": 79,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/emoji/blush.png": {
+      "frame": {
+        "x": 1866,
+        "y": 794,
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/emoji/clenchteeth.png": {
+      "frame": {
+        "x": 1866,
+        "y": 926,
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/cards/Heart05.png": {
+      "frame": {
+        "x": 1725,
+        "y": 1443,
+        "w": 256,
+        "h": 397
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 397
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/emoji/clenchteeth2.png": {
+      "frame": {
+        "x": 1465,
+        "y": 1844,
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/fireParticles/cloud_1.png": {
+      "frame": {
+        "x": 1597,
+        "y": 1703,
+        "w": 124,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 124,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/emoji/cool.png": {
+      "frame": {
+        "x": 1465,
+        "y": 1703,
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/fireParticles/glow1.png": {
+      "frame": {
+        "x": 1597,
+        "y": 1835,
+        "w": 124,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 2,
+        "w": 124,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/emoji/crazy.png": {
+      "frame": {
+        "x": 1725,
+        "y": 1844,
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/emoji/cry.png": {
+      "frame": {
+        "x": 1857,
+        "y": 1844,
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/emoji/cute.png": {
+      "frame": {
+        "x": 1822,
+        "y": 1058,
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/emoji/heart.png": {
+      "frame": {
+        "x": 1954,
+        "y": 1058,
+        "w": 113,
+        "h": 90
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7,
+        "y": 20,
+        "w": 113,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/fireParticles/fire6.png": {
+      "frame": {
+        "x": 1954,
+        "y": 1175,
+        "w": 87,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 19,
+        "w": 87,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/emoji/dead.png": {
+      "frame": {
+        "x": 1822,
+        "y": 1190,
+        "w": 128,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "atlas/fireParticles/cloud_2.png": {
+      "frame": {
+        "x": 1822,
+        "y": 1322,
+        "w": 128,
+        "h": 115
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 128,
+        "h": 115
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 128
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "texture-0.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2046,
+      "h": 2046
+    },
+    "scale": 1
+  }
+}
